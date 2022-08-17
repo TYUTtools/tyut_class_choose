@@ -8,6 +8,7 @@
 
 使用前确保已经安装了pytyut所需的python库：
 > pip install pycryptodome
+
 > pip install requests
 
 尽量在连接校园网的情况下使用！
