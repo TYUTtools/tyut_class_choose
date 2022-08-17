@@ -4,7 +4,7 @@
 太原理工大学教务系统选课脚本
 基于[pytyut](https://gitee.com/jixiaob/pytyut)
 
-![软件截图](imgMAZG0)@1E7LFGGCZ0SIVI%7BW.png)
+![软件截图](imgMAZG0@1E7LFGGCZ0SIVI%7BW.png)
 
 使用前确保已经安装了pytyut所需的python库：
 > pip install pycryptodome
