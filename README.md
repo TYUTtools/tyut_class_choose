@@ -12,3 +12,6 @@
 > pip install requests
 
 尽量在连接校园网的情况下使用！
+
+#### 注意⚠️
+如果遇到登录等报错问题请尝试替换文件以更新[pytyut](https://gitee.com/jixiaob/pytyut)
